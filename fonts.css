@@ -16,38 +16,6 @@
 	font-weight: bold;
 }
 
-
-/* Straight Title */
-.text-title {
-	font-family: "Oswald", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
-
-/* Rounded Title */
-.text-banner {
-	font-family: "Pesta Stencil", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
-
-/* Rounded subtitle round bold */
-.text-sub-round {
-	font-family: "Proxima Soft", "Segoe UI", Tahoma, Geneva, Verdana, cursive;
-}
-
-/*  */
-.text-sub-straight
-{
-    font-family: 'Rubik', sans-serif;
-}
-
-
- /* Content text */
-.text-content {
-	font-family: 'Quicksand', sans-serif;
-}
-
-
-
-
-
 /* .text-caveat {
 	font-family: "Caveat", "Segoe UI", Tahoma, Geneva, Verdana, cursive;
 } */
